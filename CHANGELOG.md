@@ -1,5 +1,10 @@
 # Change Log
 
+## JRW
+
+remove iconv
+
+
 ## [v0.5.2](https://github.com/martynsmith/node-irc/tree/v0.5.2) (2016-11-25)
 [Full Changelog](https://github.com/martynsmith/node-irc/compare/v0.5.1...v0.5.2)
 
